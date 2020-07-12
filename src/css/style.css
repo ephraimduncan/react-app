@@ -1,0 +1,33 @@
+img {
+  margin-bottom: 10px; 
+  width: 150px;
+  height: 150px;
+}
+.bash{
+  width: 120px;
+  height: 134px;
+}
+
+.scss {
+  width: 120px;
+  height: 120px;
+}
+
+.yet {
+  color: rgb(248, 110, 110);
+}
+
+
+.myCard {
+  text-align:center;
+  border: 1px solid black;
+  padding: 1.2rem;
+  border-radius: 5px;
+  font-size: 25px;
+  transition: 0.3s;
+}
+
+.myCard:hover {
+  transform: translateY(-2px);
+  box-shadow: 0px 0px 16px 3px rgba(197,179,199,0.64);
+}
